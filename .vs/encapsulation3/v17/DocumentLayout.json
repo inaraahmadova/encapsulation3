@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\encapsulation3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B81A9752-0CD2-4986-9C15-973544A1B942}|encapsulation3\\encapsulation3.csproj|c:\\users\\hp\\desktop\\encapsulation3\\encapsulation3\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81A9752-0CD2-4986-9C15-973544A1B942}|encapsulation3\\encapsulation3.csproj|solutionrelative:encapsulation3\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81A9752-0CD2-4986-9C15-973544A1B942}|encapsulation3\\encapsulation3.csproj|c:\\users\\hp\\desktop\\encapsulation3\\encapsulation3\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81A9752-0CD2-4986-9C15-973544A1B942}|encapsulation3\\encapsulation3.csproj|solutionrelative:encapsulation3\\assistant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81A9752-0CD2-4986-9C15-973544A1B942}|encapsulation3\\encapsulation3.csproj|c:\\users\\hp\\desktop\\encapsulation3\\encapsulation3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81A9752-0CD2-4986-9C15-973544A1B942}|encapsulation3\\encapsulation3.csproj|solutionrelative:encapsulation3\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B81A9752-0CD2-4986-9C15-973544A1B942}|encapsulation3\\encapsulation3.csproj|c:\\users\\hp\\desktop\\encapsulation3\\encapsulation3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B81A9752-0CD2-4986-9C15-973544A1B942}|encapsulation3\\encapsulation3.csproj|solutionrelative:encapsulation3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\encapsulation3\\encapsulation3\\Manager.cs",
+              "RelativeDocumentMoniker": "encapsulation3\\Manager.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\encapsulation3\\encapsulation3\\Manager.cs",
+              "RelativeToolTip": "encapsulation3\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:14:44.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assistant.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\encapsulation3\\encapsulation3\\Assistant.cs",
+              "RelativeDocumentMoniker": "encapsulation3\\Assistant.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\encapsulation3\\encapsulation3\\Assistant.cs",
+              "RelativeToolTip": "encapsulation3\\Assistant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:11:56.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\encapsulation3\\encapsulation3\\Employee.cs",
+              "RelativeDocumentMoniker": "encapsulation3\\Employee.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\encapsulation3\\encapsulation3\\Employee.cs",
+              "RelativeToolTip": "encapsulation3\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:11:42.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\encapsulation3\\encapsulation3\\Program.cs",
+              "RelativeDocumentMoniker": "encapsulation3\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\encapsulation3\\encapsulation3\\Program.cs",
+              "RelativeToolTip": "encapsulation3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T20:10:44.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
